@@ -16,11 +16,12 @@ import ast # For converting string to list
 import sys # For exiting with error code
 import math
 import config
+import utils
 
 class GPT:
-    def __init__(self, api_key: str, model: str, output_file, keep_history=False):
+    def __init__(self, model: str, output_file, keep_history=False):
         # Set OpenAI API key
-        openai.api_key = api_key
+        openai.api_key = utils.get_gpt_apikey()
         self.model = model
         self.messages = [{"role": "system", "content": config.SYSTEM_PROMPT}]
         self.keep_history = keep_history

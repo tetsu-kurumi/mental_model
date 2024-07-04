@@ -32,7 +32,7 @@ def main():
     #     knowledge_graph.update_nodes(estimated_state)
     #     knowledge_graph.visualize_graph()
     # Initialize GPT module
-    grounding_agent = gpt.GPT(config.APIKEY, config.GPT_MODEL, config.OUTPUTFILE)
+    grounding_agent = gpt.GPT(config.GPT_MODEL, config.OUTPUTFILE)
 
     estimated_state, fault_params = particle_filter.update({})
     knowledge_graph.update_nodes(estimated_state)
