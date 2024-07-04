@@ -1,0 +1,19 @@
+Alright. Normal operation. Fan switch is on auto. System is on off. When I turn system to cool and set the temperature at 75, which is 1 degree cooler than the room temperature.
+
+The compressor bulb turns on, the condenser fan turns on, and the blower fan turns on. At this point, The voltage at the bulb and the socket is 46 volts, and then the voltage between the fan and the compressor bulb is the same, 46. Let's see. Voltage between the blower fan and the heater bulb is 6. And then the voltage between the DPDT relay and the blower fan is 62.
+
+Alright. Let's check the resistance. Actually, before that, we'll turn the system to heat. I'm gonna set the temperature at 70 7. The room temperature is 76.
+
+The bulb the heater bulb turns on, and the blower fan does not turn on. But when I turn the fan switch to on oh, actually, I didn't do anything. Without turning the fan switch to on, blower fan turns on. Okay. And now the voltage between the blower fan and the heater.
+
+It's gonna be 18 volts or, actually, yeah, around 18 volts. Between the DPDT relay and the heater fan. It's gonna be 0, 0.4 volts. Okay. I'll turn the system off, And then the heater bulb turns off, and the blower fan seems to be turning off.
+
+Yes. It is turning off. Okay. Now we're gonna cut the electricity to the system and test for continuity. So for that, we'll turn the mole to meter to resistance.
+
+And then first, we'll check we'll check the closer ones. Well, I can tell that the DPDT relay is connected to the terminal block, And then it seems like I'm guessing that the DPDT relay is also connected to the sequencer. The sequencer is then connected, probably connected to the contactor relay, which is yeah. And then also the SDST relay is connected with the DPDT relay. The DPDT relay is connected with the heater bulb.
+
+I can't tell whether the fans are connected with anything else. I'm assuming they are connected with the power source, which is the, sockets, the plugs. And then, yeah, the transformer is connected to the contactor relay, And I would guess that the thermostat is connected to something, but I don't know what it is connected to. What else? The heater bulb is also connected to the SBST relay.
+
+So is the sequencer to the heater bulb? The compressor bulb, I can't really tell what it's connected to. But I would assume that it's connected to the compressor plug at the power source. What else? Other connections.
+
+The power source, the outlet, the plug is connected to the contactor relay. Yeah.

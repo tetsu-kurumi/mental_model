@@ -1,0 +1,26 @@
+
+Alright. So this is default scenario. Let's see what's working and what's not working. So the fan switch is on auto as usual. We're gonna first test the system switch turned to cool.
+
+So the system switch is at cool. I'll I'm gonna set the temperature at 77. The room temperature is at 78. Okay. So the lower fan turns on, but the condenser fan and compressor bulb does not turn on, which both are supposed to.
+
+Okay. That's that's a problem. Next, we're gonna set the system switch to heat, and then we're gonna turn the temperature up above the room temperature of 78. So we'll set the temperature at 79. Okay.
+
+So the heat mark turns on, but the bulb, the heater bulb does not turn on. The blower fan also does not turn on, but usually, it takes a little time to turn on. Is it gonna turn on? I guess not. Okay.
+
+So, we know that the problem the observation is that neither the condenser fan, the compressor bulb, or the heater bulb turns on. And the blower fan also does not turn on when the heat is on. It does turn on when the cooling is on. So it seems like there is some sort of problem, probably with the power since all 3 are not turning on. So let's test it out.
+
+So we're gonna go to voltage. And so last time we checked the voltage between the compressor valve and the plug. So we're gonna do that again. Okay. Interesting.
+
+So there is some voltage going through. So there's 47 volts between compressor bulb and the plug. Now let's see if there's the same connection, same voltage going through into the condenser fan too. So, no, there is no power between the condenser fan and the con the plug. But there is power going into the compressor bulb.
+
+Okay. So a lot of things were connected to the contactor relay and the terminal block. So let's try those out. So there is a connection. It seems that there is a connection between, the contactor relay and the condenser plug or the plug.
+
+So we're gonna test that out. Yes. There is 46.5 volts between the plug, and the contactor relay. So then it seems like there is some sort of the power doesn't seem to be going into let's see. The condenser fan.
+
+Well, actually, since we're since the system is on heat, let's try the heater fan. Oh, sorry. The heater bulb and the plug. So there is 46 volts going into the heater from the condenser plug or the yeah. Condenser plug.
+
+Oh, so there is no connection between the DPDT. There is no voltage going through the DPDT relay and the heater bulb. So I am assuming that is the problem. There is still 6 volts going through the DBTT relay to the blower fan. So I think this wire, the purple wire between the DPDT relay and, the heater bulb must be the problem.
+
+Okay. So we're gonna set the system to cool. So the blower fan is working. Only the compressor bulb and the condenser fan are not working. So when I do this, let's see the voltage between the compressor bulb and the plug is still 45 volts, so there is connection there.
+
+It does seem though that
